@@ -1,0 +1,2 @@
+python installed in system
+package: UiPath.python.activities
